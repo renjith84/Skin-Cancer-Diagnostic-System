@@ -530,7 +530,7 @@ int main()
                               network.randomizeWeights();       
                               break;
                         case 2:
-                              pp.main1(0);
+                              pp.userMenu(0);
                               cout<<endl<<"Wait ... Training starts."<<endl;
                               network.train();
                               break;
