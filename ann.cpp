@@ -535,7 +535,7 @@ int main()
                               network.train();
                               break;
                         case 3:
-                              pp.main1(1);
+                              pp.userMenu(1);
                               network.test();
                               break;
                         case 4:
