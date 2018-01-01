@@ -1,1 +1,1 @@
-# Skin-Cancer-Diagnostic-System
+# Skin cancer diagnostic system using backpropagation network
